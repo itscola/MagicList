@@ -1,0 +1,23 @@
+name: MagicList
+version: 1.0
+main: top.whitecola.magiclist.MagicList
+author: [Chloe030120,White_cola]
+depend: [HiPlugin]
+commands:
+  ml:
+    usage: /ml <commands> [args] ...
+permissions:
+  ml.add:
+    default: op
+  ml.remove:
+    default: op
+  ml.get:
+    default: op
+  ml.reload:
+    default: op
+  ml.ban:
+    default: op
+  ml.nremove:
+    default: op
+  ml.confirm:
+    default: op

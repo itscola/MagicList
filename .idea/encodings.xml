@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/MagicList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/annotaions/OK.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/commands/Add.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/commands/Confirm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/commands/Get.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/commands/NRemove.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/commands/QRemove.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/commands/Reload.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/commands/Remove.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/configs/Config.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/data/Blacklist.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/data/Whitelist.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/i18n/Language.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/listener/PlayerListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/mojangapi/MojangAPI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/struct/Confirmer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/BlackListUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/EventUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/ListUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/MSGUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/NumberUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/PlayerUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/QQUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/ServerUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/Utils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/whitecola/magiclist/utils/WhiteListUtil.java" charset="GBK" />
+  </component>
+</project>

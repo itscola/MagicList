@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MagicList">
+    <output-path>$PROJECT_DIR$/out/artifacts/MagicList</output-path>
+    <root id="archive" name="MagicList.jar">
+      <element id="module-output" name="MagicList2" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
